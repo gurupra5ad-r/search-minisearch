@@ -1,0 +1,7 @@
+{
+  "name": "search-minisearch",
+  "private": true,
+  "workspaces": ["app","server"],
+  "scripts": {"dev":"concurrently \"npm --prefix server run dev\" \"npm --prefix app run dev\""},
+  "devDependencies": {"concurrently":"^9.0.0"}
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Search UI",
+    "body": "Debouncing inputs and highlighting matches improve UX."
+  },
+  {
+    "id": 2,
+    "title": "Index Strategies",
+    "body": "Choose fields, boosts, and tokenization based on use cases."
+  },
+  {
+    "id": 3,
+    "title": "Performance Tips",
+    "body": "Measure, cache, and monitor. Avoid premature optimization."
+  }
+]
